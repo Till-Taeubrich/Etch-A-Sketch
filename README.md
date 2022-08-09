@@ -1,4 +1,4 @@
-# Etch-A-Sketch
+# Etch A Sketch
 
 Digital version of "Etch A Sketch". Change grid from 1 up to 100 squares.
 
